@@ -1,2 +1,2 @@
 # BTMS
-This is about bihar tourisum management system .Suitable for student for projrct with all the codes.
+This is about bihar tourisum management system .Suitable for student for project with all the codes.
